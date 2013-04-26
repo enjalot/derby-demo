@@ -1,0 +1,4 @@
+public/gen
+lib/
+node_modules/
+*.swp

@@ -1,0 +1,16 @@
+{
+  "name": "demo",
+  "description": "",
+  "version": "0.0.0",
+  "main": "./server.js",
+  "dependencies": {
+    "derby": "*",
+    "derby-ui-boot":"*",
+    "express": "3.x",
+    "gzippo": ">=0.2.0"
+  },
+  "private": true,
+  "devDependencies": {
+    "coffee-script": ">=1.4.0"
+  }
+}
